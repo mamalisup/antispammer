@@ -1,10 +1,10 @@
 do
 
 function run(msg, matches)
-  return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/vO30o
-  GNU GPL v2 license.
-  @silenceangel for more info.]]
+  return 'Telemega Bot '.. VERSION .. [[ 
+ با تشکر از یاگوپ
+ amir/amir/abas
+ version:1.1
 end
 
 return {
